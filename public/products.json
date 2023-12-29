@@ -1,0 +1,33 @@
+[
+    {
+      "product": "Case",
+      "price": 120.00,
+      "discounted_price": 89.90,
+      "description": "Vehicula eget sapien accumsan elementum. Aliquam pretium malesuada hendrerit. Vivamus ac laoreet quam, consectetur mattis dolor.",
+      "image_urls": [
+        "https://the7.io/elementor-product/wp-content/uploads/sites/111/2023/09/pexels-pavel-danilyuk-8000593-1.jpg",
+        "https://the7.io/elementor-product/wp-content/uploads/sites/111/2023/12/Mask-group-10.jpg",
+        "https://the7.io/elementor-product/wp-content/uploads/sites/111/2023/12/pexels-pavel-danilyuk-8000592-1-1.jpg"
+      ]
+    },
+    {
+      "product": "Stand",
+      "price": 48.00,
+      "description": "Vivamus lacus tortor, euismod sit amet dignissim at, molestie a massa. Curabitur in ipsum leo. Class aptent taciti sociosqu ad litora torquent per conubia.",
+      "image_urls": [
+        "https://the7.io/elementor-product/wp-content/uploads/sites/111/2023/12/Mask-group-1-1.jpg",
+        "https://the7.io/elementor-product/wp-content/uploads/sites/111/2023/11/Mask-group-19.jpg",
+        "https://the7.io/elementor-product/wp-content/uploads/sites/111/2023/11/Mask-group-20.jpg"
+      ]
+    },
+    {
+      "product": "Seven Wireless Headphones",
+      "price": 350.00,
+      "description": "Curabitur a est nec diam cursus rutrum rhoncus ac ligula. Vivamus mollis justo eget scelerisque placerat.",
+      "image_urls": [
+        "https://the7.io/elementor-product/wp-content/uploads/sites/111/2023/12/Mask-group-10.jpg",
+        "https://the7.io/elementor-product/wp-content/uploads/sites/111/2023/12/Mask-group-16.jpg",
+        "https://the7.io/elementor-product/wp-content/uploads/sites/111/2023/12/Mask-group-17.jpg"
+      ]
+    }
+  ]
