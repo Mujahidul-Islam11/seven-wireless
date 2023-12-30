@@ -48,6 +48,7 @@ const ProductInfo = () => {
           </div>
         </div>
       </div>
+      {/* part 3 info */}
       <div
         className="hero md:h-[500px] rounded-2xl mt-20"
         style={{
