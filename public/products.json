@@ -1,5 +1,6 @@
 [
     {
+      "id": 1,
       "product": "Case",
       "price": 120.00,
       "discounted_price": 89.90,
@@ -11,6 +12,7 @@
       ]
     },
     {
+      "id": 2,
       "product": "Stand",
       "price": 48.00,
       "description": "Vivamus lacus tortor, euismod sit amet dignissim at, molestie a massa. Curabitur in ipsum leo. Class aptent taciti sociosqu ad litora torquent per conubia.",
@@ -21,6 +23,7 @@
       ]
     },
     {
+      "id": 3,
       "product": "Seven Wireless Headphones",
       "price": 350.00,
       "description": "Curabitur a est nec diam cursus rutrum rhoncus ac ligula. Vivamus mollis justo eget scelerisque placerat.",
