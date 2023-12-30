@@ -1,6 +1,7 @@
 const ProductInfo = () => {
   return (
     <div className="px-4 md:px-12 container mx-auto my-20">
+        {/* part 1 info */}
       <div
         className="hero md:h-[500px] rounded-2xl"
         style={{
