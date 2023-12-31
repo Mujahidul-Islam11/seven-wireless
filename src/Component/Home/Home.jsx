@@ -1,5 +1,6 @@
 import Advertisement from "../Advertisement/Advertisement";
 import Banner from "../Banner/Banner";
+import Explore from "../Explore/Explore";
 import Featured from "../Featured/Featured";
 import ProductInfo from "../ProductInfo/ProductInfo";
 import ProductOverview from "../ProductOverview/ProductOverview";
@@ -15,6 +16,7 @@ const Home = () => {
             <Featured></Featured>
             <ProductOverview></ProductOverview>
             <Testimonials></Testimonials>
+            <Explore></Explore>
         </div>
     );
 };
