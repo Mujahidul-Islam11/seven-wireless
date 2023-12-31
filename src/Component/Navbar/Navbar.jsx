@@ -46,14 +46,14 @@ const Navbar = () => {
 
         {/* Nav routes here */}
         <div>
-          <nav>
-            <div className="drawer drawer-end">
+          <nav className="scrollbar-hide">
+            <div className="drawer drawer-end scrollbar-hide">
               <input
                 id="my-drawer-4"
                 type="checkbox"
                 className="drawer-toggle"
               />
-              <div className="drawer-content">
+              <div className="drawer-content scrollbar-hide">
                 {/* Page content here */}
                 <label htmlFor="my-drawer-4" className="drawer-button">
                   <HiBars3BottomLeft className="text-5xl cursor-pointer text-white"></HiBars3BottomLeft>
