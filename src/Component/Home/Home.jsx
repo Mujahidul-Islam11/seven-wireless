@@ -3,6 +3,7 @@ import Banner from "../Banner/Banner";
 import Featured from "../Featured/Featured";
 import ProductInfo from "../ProductInfo/ProductInfo";
 import ProductOverview from "../ProductOverview/ProductOverview";
+import Testimonials from "../Testimonials/Testimonials";
 
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
             <ProductInfo></ProductInfo>
             <Featured></Featured>
             <ProductOverview></ProductOverview>
+            <Testimonials></Testimonials>
         </div>
     );
 };
