@@ -1,4 +1,5 @@
 const Explore = () => {
+  // product explorar 
   return (
     <div
       className="hero min-h-screen my-16 md:w-[1182px] rounded-2xl mx-auto"
